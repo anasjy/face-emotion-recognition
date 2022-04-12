@@ -1,4 +1,4 @@
 # face-emotion-recognition
--deep learning and ML project
--the video.py file is for testing 
--the pdf have all presentation including how its works. 
+1.deep learning and ML project
+2.the video.py file is for testing 
+3.the pdf have all presentation including how its works. 
